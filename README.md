@@ -5,7 +5,7 @@ I'm a passionate VLSI enthusiast with a strong foundation in embedded systems an
 
 ## 🛠️ Skills & Technologies
 - **Languages**: Verilog, C, Python
-- **Tools**: Vivado, Git
+- **Tools**: Vivado, Git, Arduino IDE, VS Code 
 - **Technologies**: FPGA, Embedded Systems, IoT, AI/ML
 
 ## 💡 Projects
